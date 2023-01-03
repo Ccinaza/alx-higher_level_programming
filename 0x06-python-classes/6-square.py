@@ -6,6 +6,7 @@ Create a Class Square with:
 - getters & setters.
 """
 
+
 class Square:
     """Class - Square"""
 
@@ -58,4 +59,4 @@ class Square:
                 or (value[0] < 0) or (value[1] < 0):
             raise TypeError("position must be a tuple of 2 positive integers")
         else:
-            self.__position = 
+            self.__position =

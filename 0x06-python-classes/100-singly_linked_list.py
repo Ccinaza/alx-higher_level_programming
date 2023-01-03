@@ -6,6 +6,7 @@ __size that takes the size variable's value passed as
 argument. Also checks if the size arg has a valid value.
 """
 
+
 class Node():
     """Node Class."""
 
